@@ -21,7 +21,7 @@ Includes scoring, levels, next-piece preview, and a full restart system.
 ##### 1. Clone the repository
 ```bash
 git clone https://github.com/nikanikoo/tetris.git
-cd tetri
+cd tetris
 ```
 ##### 2. Install dependencies
 ```bash
