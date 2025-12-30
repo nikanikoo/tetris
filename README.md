@@ -1,4 +1,4 @@
-# Tetris (Pygame) 🎮
+# Tetris 🎮
 A classic Tetris game implemented in Python using Pygame.
 
 Includes scoring, levels, next-piece preview, and a full restart system.
